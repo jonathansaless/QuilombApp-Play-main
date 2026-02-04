@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta6
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: Como Quintino de Lacerda, que nasceu escravo, obteve seu sobrenome?
+  respostas:
+  - Ele adotou o nome do quilombo que fundou.
+  - Ele herdou de seu pai, que era um nobre africano.
+  - Ele tomou o nome de seu antigo senhor, que o libertou.
+  - "Foi um t\xEDtulo dado a ele pela Princesa Isabel."
+  indiceRespostaCorreta: 2
+  dica: "Era um costume da \xE9poca adotar o nome da fam\xEDlia do senhor que concedia
+    a alforria."
+  imagemDaPergunta: {fileID: 0}

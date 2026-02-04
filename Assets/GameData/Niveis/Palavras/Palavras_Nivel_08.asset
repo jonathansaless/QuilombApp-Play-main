@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5df160d43e31f4cb9c16955ab23d53, type: 3}
+  m_Name: Palavras_Nivel_08
+  m_EditorClassIdentifier: Assembly-CSharp::WordGameData
+  idDoNivel: palavras_8
+  NumeroMaxMovimentos: 30
+  titulo: Capoeira
+  imagemPrincipal: {fileID: 1464304247106284635, guid: e46beead3a111a948964f301372a9986, type: 3}
+  textoDaExplicacao: "A capoeira \xE9 uma manifesta\xE7\xE3o cultural afro-brasileira
+    que envolve elementos de dan\xE7a, arte marcial, m\xFAsica, jogo e religiosidade.\r\nO
+    surgimento da express\xE3o foi protagonizado pelos negros escravizados como forma
+    de resist\xEAncia \xE0 opress\xE3o dos senhores e de preserva\xE7\xE3o de suas
+    identidades culturais. A roda, os instrumentos musicais, o canto e os movimentos
+    corporais comp\xF5em a performance em capoeira.\r\nPor meio das contribui\xE7\xF5es
+    de mestres da capoeira, como Bimba e Pastinha, a pr\xE1tica \xE9 dividida em
+    duas principais categorias: Angola e regional. Enquanto a primeira, mais tradicional,
+    busca resgatar a heran\xE7a africana, a segunda recebe influ\xEAncias de artes
+    marciais e ocupa os espa\xE7os das academias.\r\nA origem da capoeira est\xE1
+    associada ao contexto da escravid\xE3o no Brasil, e os primeiros registros hist\xF3ricos
+    s\xE3o do s\xE9culo XVIII. Os negros africanos escravizados desenvolveram a pr\xE1tica
+    como forma de autodefesa e resist\xEAncia \xE0 opress\xE3o dos senhores.\r\nPesquisadores
+    apontam que o in\xEDcio da express\xE3o se deu no per\xEDodo de forma\xE7\xE3o
+    dos quilombos, comunidades de escravizados que fugiam das viol\xEAncias a que
+    eram submetidos.\r\nO termo capoeira significa \u201Co mato que nasce depois
+    do desmatamento\u201D. O nome est\xE1 relacionado \xE0 forma como se dava a pr\xE1tica
+    em seu in\xEDcio, realizada nas regi\xF5es de mato. O surgimento da express\xE3o
+    ocorreu na zona rural, e somente depois ela chegou aos espa\xE7os urbanos.\r\nA
+    capoeira era considerada proibida, pois n\xE3o era bem-vista pelos senhores.
+    Nesse sentido, as pr\xE1ticas no mato eram formas de manter a express\xE3o viva
+    sem que os propriet\xE1rios das fazendas descobrissem.\r\nNesse contexto da descriminaliza\xE7\xE3o
+    da capoeira, Manoel do Reis Machado, o mestre Bimba, surgiu como uma personagem
+    hist\xF3rica da capoeira baiana.\r\nEle foi respons\xE1vel por realizar mudan\xE7as
+    na forma como se praticava a capoeira. Bimba incorporou t\xE9cnicas e movimentos
+    de outras modalidades de luta.\r\nEntre suas contribui\xE7\xF5es est\xE1 a cria\xE7\xE3o
+    do ritual da formatura, a aproxima\xE7\xE3o da capoeira com a linguagem acad\xEAmica,
+    bem como a sistematiza\xE7\xE3o do ensino da capoeira. A pr\xE1tica deixou de
+    ser majoritariamente realizada na rua e passou a ocupar as academias.\r\nUm dos
+    marcos da legaliza\xE7\xE3o da capoeira no Brasil foi a autoriza\xE7\xE3o que
+    Bimba teve no ano de 1937 para ensinar a capoeira no Centro de Cultura F\xEDsica
+    e Capoeira Regional da Bahia.\r\nFoi com o trabalho do mestre que a capoeira
+    se dividiu em duas principais modalidades, a regional, criada por Bimba, e a
+    Angola, tipo mais tradicional.\r\nA capoeira re\xFAne diferentes tipos de elementos
+    do campo da musicalidade, luta, religiosidade, dan\xE7a e costumes. Ela se consolidou
+    enquanto forma de preservar as culturas ancestrais de seus praticantes, bem como
+    de resistir \xE0 opress\xE3o vivenciada no contexto da escravid\xE3o. A capoeira
+    \xE9 caracterizada pela da roda de praticantes e tocadores, pelos cantos, pelos
+    instrumentos e pelos movimentos corporais."
+  fonteExplicacao: Brasil Escola, 2025
+  respostaCorreta: CAPOEIRA
+  imagemDeDica: {fileID: 1464304247106284635, guid: e46beead3a111a948964f301372a9986, type: 3}
+  textoDaPergunta: "Como se chama a manifesta\xE7\xE3o cultural afro-brasileira que
+    mistura arte marcial, dan\xE7a, m\xFAsica e acrobacias?"
+  letrasParaEmbaralhar: CAPOEIRADJKSU

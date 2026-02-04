@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5df160d43e31f4cb9c16955ab23d53, type: 3}
+  m_Name: Palavras_Nivel_10
+  m_EditorClassIdentifier: Assembly-CSharp::WordGameData
+  idDoNivel: palavras_10
+  NumeroMaxMovimentos: 25
+  titulo: Chaleira
+  imagemPrincipal: {fileID: 5760964587681210045, guid: 128e6642070cede49a28a3ecc4c52ffc, type: 3}
+  textoDaExplicacao: "A cer\xE2mica de barro na cultura quilombola \xE9 uma express\xE3o
+    material de resist\xEAncia, mem\xF3ria e identidade ancestral, sendo uma pr\xE1tica
+    tradicional que incorpora saberes transmitidos entre gera\xE7\xF5es, principalmente
+    pelas mulheres, e que tem fun\xE7\xF5es tanto utilit\xE1rias quanto simb\xF3licas
+    e econ\xF4micas. \r\nHeran\xE7a Ancestral: A produ\xE7\xE3o de cer\xE2mica em
+    comunidades quilombolas \xE9 uma heran\xE7a cultural que remonta a tradi\xE7\xF5es
+    ind\xEDgenas e africanas, adaptadas e recriadas ao longo do tempo no Brasil.
+    O uso do barro est\xE1 enraizado na hist\xF3ria dessas popula\xE7\xF5es e na
+    luta pela sobreviv\xEAncia e manuten\xE7\xE3o de suas ra\xEDzes.\r\nTransmiss\xE3o
+    de Conhecimento: O saber-fazer \xE9, em muitos casos, um conhecimento dominado
+    pelas mulheres (\"louceiras\") e passado de gera\xE7\xE3o para gera\xE7\xE3o,
+    o que fortalece os la\xE7os familiares e comunit\xE1rios.\r\nFun\xE7\xE3o Utilit\xE1ria:
+    Historicamente, as pe\xE7as de barro \u2014 como panelas, potes, alguidares e
+    tigelas \u2014 eram (e em muitos lugares ainda s\xE3o) essenciais para o dia
+    a dia, utilizadas no preparo e armazenamento de alimentos.\r\nFun\xE7\xE3o Simb\xF3lica
+    e Cultural: Al\xE9m do uso pr\xE1tico, a cer\xE2mica tem um valor cultural imenso,
+    representando a hist\xF3ria, a luta e a resist\xEAncia do povo quilombola. As
+    pe\xE7as podem ser usadas em rituais religiosos e cerim\xF4nias, expressando
+    a identidade da comunidade.\r\nFonte de Renda: Atualmente, o artesanato de barro
+    tamb\xE9m se tornou uma importante fonte de renda para muitas fam\xEDlias quilombolas,
+    com pe\xE7as utilit\xE1rias e decorativas comercializadas em diversas regi\xF5es. "
+  fonteExplicacao: Santos, 2010
+  respostaCorreta: CHALEIRA
+  imagemDeDica: {fileID: 5760964587681210045, guid: 128e6642070cede49a28a3ecc4c52ffc, type: 3}
+  textoDaPergunta: "Como \xE9 chamado o recipiente de barro da imagem com bico e
+    al\xE7a, usado para ferver \xE1gua e servir bebidas quentes?"
+  letrasParaEmbaralhar: CHALEIRAOBVQU

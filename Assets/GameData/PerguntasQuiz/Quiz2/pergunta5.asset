@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta5
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Qual \xE9 a principal suspeita sobre a morte de Ganga Zumba,
+    ocorrida logo ap\xF3s o tratado de paz?"
+  respostas:
+  - Ele foi envenenado, possivelmente por seguidores de Zumbi.
+  - "Ele morreu de velhice em Cuca\xFA."
+  - Ele foi capturado e executado como Zumbi.
+  - Ele foi morto em batalha por soldados portugueses.
+  indiceRespostaCorreta: 0
+  dica: "Sua morte n\xE3o foi natural e est\xE1 ligada \xE0 divis\xE3o que ele causou
+    ao aceitar o tratado."
+  imagemDaPergunta: {fileID: 0}

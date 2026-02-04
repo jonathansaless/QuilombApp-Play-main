@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_02
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_2
+  NumeroMaxMovimentos: 90
+  titulo: Atabaque
+  imagemPrincipal: {fileID: -8710669469184904562, guid: 5cc33a3dd9c4b034395ee38d94dca472, type: 3}
+  textoDaExplicacao: "Atabaques s\xE3o tambores sagrados, tocados com as m\xE3os
+    ou com baquetas, que acompanham os c\xE2nticos e dan\xE7as nos rituais das religi\xF5es
+    de matriz africana. Cada batida tem fun\xE7\xE3o espiritual: chamar os orix\xE1s,
+    conduzir o ritmo da cerim\xF4nia, invocar energias e auxiliar na incorpora\xE7\xE3o
+    das entidades.\nMais que instrumentos musicais, os atabaques s\xE3o considerados
+    portadores de ax\xE9 \u2014 energia vital. Eles n\xE3o apenas tocam, mas \u201Cfalam\u201D,
+    \u201Crezam\u201D e \u201Ccuram\u201D.\nA palavra \u201Catabaque\u201D tem origem
+    \xE1rabe (al-\u1E6Dabq), mas os tambores que conhecemos no Brasil vieram da \xC1frica
+    Ocidental, trazidos por povos iorub\xE1s, bantos e jejes. Nas culturas africanas,
+    os tambores j\xE1 tinham fun\xE7\xE3o ritual e eram usados para comunica\xE7\xE3o,
+    celebra\xE7\xE3o, luto, guerra e espiritualidade.\nAo chegar ao Brasil, durante
+    o per\xEDodo escravocrata, os tambores foram preservados e adaptados, tornando-se
+    pe\xE7a fundamental nas religi\xF5es afro-brasileiras."
+  fonteExplicacao: Brazil Artes, 2025
+  imagemReferencia: {fileID: -8710669469184904562, guid: 5cc33a3dd9c4b034395ee38d94dca472, type: 3}
+  pecasDoPuzzle:
+  - {fileID: -6229895161458319715, guid: c09933a126e043e4186e4857fd387f81, type: 3}
+  - {fileID: -7099348785784067063, guid: 66d34b50ddd21454cb25105d5e261433, type: 3}
+  - {fileID: 8131844769599064721, guid: 61a5569723e0c2e48add8ee2503886f0, type: 3}
+  - {fileID: -3759002018909698922, guid: a99f867055c533e4c9ac3e426eb171e3, type: 3}
+  - {fileID: -4305044660966990141, guid: c308a9d5f8ec5884588c04bc1470c2a0, type: 3}
+  - {fileID: -7457915632403292387, guid: 27e43fb9a4195774285f37aded556ddd, type: 3}
+  - {fileID: 8887184639416065396, guid: 078a7d8336603f945b08d41a23d357d3, type: 3}
+  - {fileID: -1868255176876141149, guid: 86e5f24461685bc4baa2e4716e053fed, type: 3}
+  - {fileID: 3606108221695133641, guid: f4a853bd927c2724d8071d76c78d4bf0, type: 3}
+  - {fileID: -5811842584770884393, guid: 903fb1f92b813e64298202d3055313ad, type: 3}
+  - {fileID: -1306075647115798967, guid: a2f484f607c0c2f41952ae36661b9f11, type: 3}
+  - {fileID: 8996682552978111213, guid: 08d376a346752eb41aa60aa182477fee, type: 3}
+  - {fileID: 3367863682308167203, guid: b1f59ee47c07f33479c0242c2ba0f10b, type: 3}
+  - {fileID: 6344360885258845589, guid: ba2966c15d171f84c9db2cb43a7a6904, type: 3}
+  - {fileID: -8164507174895395879, guid: c2e5dca11940fc344bac4da32712cdd8, type: 3}
+  - {fileID: 2795723572525454430, guid: 5621189bc4b1c434dbad6afc309ec634, type: 3}
+  - {fileID: 4117621423989408475, guid: d961af24e85d90b4ab79930eee702237, type: 3}
+  - {fileID: -1742754072933902412, guid: e85ca0ddf5507dc43a5e470ab5b29726, type: 3}
+  - {fileID: -4320877089178485103, guid: 55b1a8e94bb1c21488d089be3b941ba6, type: 3}
+  - {fileID: 4102839900172176756, guid: 6b571b8993691794b8112187f9653b58, type: 3}

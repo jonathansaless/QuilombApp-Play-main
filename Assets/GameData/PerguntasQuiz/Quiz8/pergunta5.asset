@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta5
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Quem foi Waldilena Martins e qual sua import\xE2ncia para a hist\xF3ria
+    das Abayomis no Brasil?"
+  respostas:
+  - "Foi uma educadora e ativista que iniciou a confec\xE7\xE3o moderna das Abayomis
+    nos anos 80"
+  - Foi a fundadora de um museu de brinquedos africanos
+  - Foi uma historiadora que escreveu o primeiro livro sobre as bonecas
+  - "Foi a mulher que trouxe a primeira Abayomi da \xC1frica para o Brasil"
+  indiceRespostaCorreta: 0
+  dica: "Ela foi uma figura central no resgate dessa tradi\xE7\xE3o durante o Movimento
+    Negro, perto dos 100 anos da aboli\xE7\xE3o."
+  imagemDaPergunta: {fileID: 0}

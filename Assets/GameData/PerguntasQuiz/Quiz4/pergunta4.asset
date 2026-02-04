@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta4
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Como a hist\xF3ria de Acotirene \xE9 conhecida hoje, dada a escassez
+    de documentos escritos sobre ela?"
+  respostas:
+  - "Por meio de pinturas feitas na \xE9poca em Palmares."
+  - "Principalmente pela tradi\xE7\xE3o oral, passada entre gera\xE7\xF5es."
+  - "Em relat\xF3rios militares portugueses detalhados."
+  - "Atrav\xE9s de cartas escritas por ela mesma."
+  indiceRespostaCorreta: 1
+  dica: "Sua mem\xF3ria foi preservada pela fala, n\xE3o pela escrita."
+  imagemDaPergunta: {fileID: 0}

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_01
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_1
+  NumeroMaxMovimentos: 100
+  titulo: Turbante
+  imagemPrincipal: {fileID: -7387368776685413153, guid: 0ad066a78994f844688d6e5a3e8f8643, type: 3}
+  textoDaExplicacao: "O turbante \xE9 uma pe\xE7a de vestu\xE1rio que transcende
+    o seu prop\xF3sito funcional e se torna um poderoso s\xEDmbolo cultural e hist\xF3rico
+    em muitas partes do mundo. A sua origem remonta a s\xE9culos atr\xE1s, com uma
+    rica diversidade de estilos e significados em diferentes culturas.\nNos \xFAltimos
+    anos, o item ganhou notoriedade especial como um importante s\xEDmbolo de resist\xEAncia
+    e identidade entre as comunidades negras, representando a heran\xE7a africana,
+    a luta contra a opress\xE3o racial e a afirma\xE7\xE3o da beleza negra.\nDessa
+    forma, o turbante n\xE3o \xE9 mais uma pe\xE7a de roupa, mas um emblema que ecoa
+    for\xE7a, resist\xEAncia e a luta por igualdade ao longo da hist\xF3ria.\nUsado
+    de forma majestosa e variada por pessoas de ascend\xEAncia africana em diferentes
+    partes do mundo, o turbante transcende a moda para se tornar um manifesto cultural
+    e pol\xEDtico. Ele carrega consigo a heran\xE7a de s\xE9culos de opress\xE3o
+    racial, mas tamb\xE9m representa a for\xE7a, a identidade e a celebra\xE7\xE3o
+    da cultura africana.\nVers\xE1til, plural e multifuncional. Assim como o jeans,
+    o turbante \xE9 mais que uma pe\xE7a ou um acess\xF3rio e expressa identidade.
+    A uni\xE3o dos dois itens j\xE1 \xE9 uma tend\xEAncia no mundo da moda e o encontro
+    das pe\xE7as coroa a diversidade."
+  fonteExplicacao: 
+  imagemReferencia: {fileID: -7387368776685413153, guid: 0ad066a78994f844688d6e5a3e8f8643, type: 3}
+  pecasDoPuzzle:
+  - {fileID: 7710468931611493737, guid: ebc296f1d543d774b890fd5187ac36b8, type: 3}
+  - {fileID: -9020085500979308417, guid: 83bee6b47b068c04992daacd99bca8d1, type: 3}
+  - {fileID: -7967902370463443446, guid: f10d3c1c5935b6848b3bb70fc69c2cca, type: 3}
+  - {fileID: 1580697689341755880, guid: 1b115bdcce8e399459e85f1c8d17905a, type: 3}
+  - {fileID: 5199092619280384031, guid: e3154409c0ab9b14a8bc108c50f6aede, type: 3}
+  - {fileID: 8576096474568536690, guid: b50f6d99ad8fa414b8e0f04c5390343e, type: 3}
+  - {fileID: 8603113238360500983, guid: bb95e2605fc0b564d90ca42ffdedc585, type: 3}
+  - {fileID: 8741630738063348292, guid: 2a027968cec6843498ab316636babcb6, type: 3}
+  - {fileID: -4950323561975918040, guid: d3c778c2e627a6b44b62789e1a589e89, type: 3}
+  - {fileID: 6700077953012993337, guid: b85769f327f2c9640947a88be8c04509, type: 3}
+  - {fileID: 7994614865947103489, guid: ae2cc591abbde474499d3e41a21d1be1, type: 3}
+  - {fileID: 6712561050374476032, guid: 1660144a1f3ad2e458ac60512dd2a275, type: 3}
+  - {fileID: -2495945011606617109, guid: aa40964628b84e643ae4ae9b5c6d72b3, type: 3}
+  - {fileID: 2408482958708296919, guid: c4debebf684d8204082b0f172df15b81, type: 3}
+  - {fileID: 5203221181816946289, guid: ca65849d0504c9d43b8888ebcaf9a923, type: 3}
+  - {fileID: 7491891825044474565, guid: 6b117163385b4ad4fa2734c61062ea4d, type: 3}
+  - {fileID: 5064742067612795192, guid: e4ab5da064049de428c58789fe2d6a13, type: 3}
+  - {fileID: 9012383033734652023, guid: 7383630ea0c191d45a3f2ba027e982ca, type: 3}
+  - {fileID: 3347037219316350334, guid: 32aedf3df80c71b43ab6d19d186752a3, type: 3}
+  - {fileID: 7454269830794896616, guid: 46d7e6a459e0e5d4696f19b8c9ae6992, type: 3}

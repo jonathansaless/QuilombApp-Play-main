@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta2
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Qual era a profiss\xE3o de Maria Patr\xEDcia Foga\xE7a na cidade
+    de Santos no s\xE9culo XIX?"
+  respostas:
+  - Professora
+  - Quituteira
+  - "L\xEDder quilombola"
+  - Parteira (ou 'aparadeira')
+  indiceRespostaCorreta: 3
+  dica: "Sua profiss\xE3o era ajudar no nascimento de crian\xE7as."
+  imagemDaPergunta: {fileID: 0}

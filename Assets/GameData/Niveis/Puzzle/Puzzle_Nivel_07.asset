@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_07
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_7
+  NumeroMaxMovimentos: 60
+  titulo: Capoeira
+  imagemPrincipal: {fileID: 1464304247106284635, guid: 671da26c80a78f4409011ce877b958b5, type: 3}
+  textoDaExplicacao: "A capoeira \xE9 uma manifesta\xE7\xE3o cultural afro-brasileira
+    que envolve elementos de dan\xE7a, arte marcial, m\xFAsica, jogo e religiosidade.\nO
+    surgimento da express\xE3o foi protagonizado pelos negros escravizados como forma
+    de resist\xEAncia \xE0 opress\xE3o dos senhores e de preserva\xE7\xE3o de suas
+    identidades culturais. A roda, os instrumentos musicais, o canto e os movimentos
+    corporais comp\xF5em a performance em capoeira.\nPor meio das contribui\xE7\xF5es
+    de mestres da capoeira, como Bimba e Pastinha, a pr\xE1tica \xE9 dividida em
+    duas principais categorias: Angola e regional. Enquanto a primeira, mais tradicional,
+    busca resgatar a heran\xE7a africana, a segunda recebe influ\xEAncias de artes
+    marciais e ocupa os espa\xE7os das academias.\nA origem da capoeira est\xE1 associada
+    ao contexto da escravid\xE3o no Brasil, e os primeiros registros hist\xF3ricos
+    s\xE3o do s\xE9culo XVIII. Os negros africanos escravizados desenvolveram a pr\xE1tica
+    como forma de autodefesa e resist\xEAncia \xE0 opress\xE3o dos senhores.\nPesquisadores
+    apontam que o in\xEDcio da express\xE3o se deu no per\xEDodo de forma\xE7\xE3o
+    dos quilombos, comunidades de escravizados que fugiam das viol\xEAncias a que
+    eram submetidos.\nO termo capoeira significa \u201Co mato que nasce depois do
+    desmatamento\u201D. O nome est\xE1 relacionado \xE0 forma como se dava a pr\xE1tica
+    em seu in\xEDcio, realizada nas regi\xF5es de mato. O surgimento da express\xE3o
+    ocorreu na zona rural, e somente depois ela chegou aos espa\xE7os urbanos.\nA
+    capoeira era considerada proibida, pois n\xE3o era bem-vista pelos senhores.
+    Nesse sentido, as pr\xE1ticas no mato eram formas de manter a express\xE3o viva
+    sem que os propriet\xE1rios das fazendas descobrissem.\nNesse contexto da descriminaliza\xE7\xE3o
+    da capoeira, Manoel do Reis Machado, o mestre Bimba, surgiu como uma personagem
+    hist\xF3rica da capoeira baiana.\nEle foi respons\xE1vel por realizar mudan\xE7as
+    na forma como se praticava a capoeira. Bimba incorporou t\xE9cnicas e movimentos
+    de outras modalidades de luta.\nEntre suas contribui\xE7\xF5es est\xE1 a cria\xE7\xE3o
+    do ritual da formatura, a aproxima\xE7\xE3o da capoeira com a linguagem acad\xEAmica,
+    bem como a sistematiza\xE7\xE3o do ensino da capoeira. A pr\xE1tica deixou de
+    ser majoritariamente realizada na rua e passou a ocupar as academias.\nUm dos
+    marcos da legaliza\xE7\xE3o da capoeira no Brasil foi a autoriza\xE7\xE3o que
+    Bimba teve no ano de 1937 para ensinar a capoeira no Centro de Cultura F\xEDsica
+    e Capoeira Regional da Bahia.\nFoi com o trabalho do mestre que a capoeira se
+    dividiu em duas principais modalidades, a regional, criada por Bimba, e a Angola,
+    tipo mais tradicional.\nA capoeira re\xFAne diferentes tipos de elementos do
+    campo da musicalidade, luta, religiosidade, dan\xE7a e costumes. Ela se consolidou
+    enquanto forma de preservar as culturas ancestrais de seus praticantes, bem como
+    de resistir \xE0 opress\xE3o vivenciada no contexto da escravid\xE3o. A capoeira
+    \xE9 caracterizada pela da roda de praticantes e tocadores, pelos cantos, pelos
+    instrumentos e pelos movimentos corporais."
+  fonteExplicacao: Brasil Escola, 2025
+  imagemReferencia: {fileID: 1464304247106284635, guid: 671da26c80a78f4409011ce877b958b5, type: 3}
+  pecasDoPuzzle:
+  - {fileID: 6370422335865371893, guid: 06fb4d336eddc9640b320f90a8872a33, type: 3}
+  - {fileID: -482293996353388934, guid: bd4742d02ffea8840a6b5a6a67e46795, type: 3}
+  - {fileID: -2084982491819246539, guid: 587415b3251f1554694d2806e4638d4b, type: 3}
+  - {fileID: -1939891757413257343, guid: 7986d6e8147b61d4e9cc67ddf93b4bad, type: 3}
+  - {fileID: 8854683711328916111, guid: 129f69b23bcdd684eba652cf6897afac, type: 3}
+  - {fileID: -8373221310793933416, guid: 20a65de47cc25fe4289e6c0ee29e19a9, type: 3}
+  - {fileID: -602636621649619385, guid: c007fdc08b2224f418cce8ec46af3365, type: 3}
+  - {fileID: -9078573052181655092, guid: c2eefe9ceee334440bb122264afb487b, type: 3}
+  - {fileID: -3764081687871782308, guid: ddcd5319baccea342a57f779d2d1d061, type: 3}
+  - {fileID: 3608396173444534531, guid: 956205ed5edb91c4f81d5080acc7b311, type: 3}
+  - {fileID: -5335110254783216288, guid: 8fefdbae77eecf1479addaabe469f158, type: 3}
+  - {fileID: 1415854430386784119, guid: 5fd72844ec96bcb4f958a5639615f7c5, type: 3}
+  - {fileID: 906117341587691001, guid: cb8e7ecba0d2e394eb39d813f5a3479d, type: 3}
+  - {fileID: -2712614682921489199, guid: 6f8e1f7629f2d2a4dbcad61cff1a6c64, type: 3}
+  - {fileID: 4085773492212542694, guid: fbaebe895f9615d4995ddf28b308fa78, type: 3}
+  - {fileID: -931458305918842265, guid: f61d3708690b0e444b906c6239c771be, type: 3}
+  - {fileID: -2280548470583994398, guid: 43d00b93b3f1f4a4eb3cc10f10f6f342, type: 3}
+  - {fileID: 2332509431273568235, guid: 3930605b34c61394582fc0d300ceba94, type: 3}
+  - {fileID: -628433675884804391, guid: c0dc317bac0e7a24b893d918933ab176, type: 3}
+  - {fileID: 3297662844140165471, guid: d77a28968472b8340a4d7ac1ceed1f93, type: 3}

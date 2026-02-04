@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5df160d43e31f4cb9c16955ab23d53, type: 3}
+  m_Name: Palavras_Nivel_05
+  m_EditorClassIdentifier: Assembly-CSharp::WordGameData
+  idDoNivel: palavras_5
+  NumeroMaxMovimentos: 30
+  titulo: Boneca Abayomi
+  imagemPrincipal: {fileID: -5430484630803244835, guid: adcbfb714257ae24791386135abd2d12, type: 3}
+  textoDaExplicacao: "Produzida pelas mulheres, a partir das pr\xF3prias vestes,
+    abayomis distra\xEDam as crian\xE7as sequestradas, em \xC1frica, para a escravid\xE3o
+    no Brasil.\r\nIsso, pelo menos, \xE9 o que se conta\u2026 E \xE9 uma hist\xF3ria
+    bonita em meio \xE0 crueldade e \xE0 viol\xEAncia da escraviza\xE7\xE3o negra.\r\nA
+    palavra abayomi significa \u201Cencontro precioso\u201D em yorub\xE1, idioma
+    original da Nig\xE9ria, o pa\xEDs mais populoso de \xC1frica, na regi\xE3o Ocidental
+    do continente.\nO fato inquestion\xE1vel \xE9 que nada precioso esperava os pequenos
+    \u201Ctripulantes\u201D dos navios negreiros \u2013 chamados tumbeiros -,  que
+    atravessavam o oceano Atl\xE2ntico a caminho do Brasil. E imaginando a dor dos
+    nossos antepassados, de todas as idades, acalma o cora\xE7\xE3o imaginar que
+    as crian\xE7as choravam e as m\xE3es rasgavam retalhos de suas saias e criavam
+    pequenas bonecas, feitas de tran\xE7as ou n\xF3s, que serviam como amuleto de
+    prote\xE7\xE3o.\r\nAssim elas acalentavam seus filhos e filhas, continham as
+    l\xE1grimas dos menores, e transformaram, mesmo sem saber, as bonecas em s\xEDmbolo
+    de resist\xEAncia.\r\nH\xE1 quem duvide que as abayomis s\xE3o as primeiras bonecas
+    africanas a chegarem ao Brasil.\nA boneca africana \u2013 ou afro-brasileira
+    \u2013 n\xE3o \xE9 simplesmente um brinquedo. Tem hist\xF3ria, ancestralidade.
+    Guarda cultura. Sua hist\xF3ria se confunde com os mitos africanos, muitos deles
+    apropriados pela chamada \u201Cb\xEDblia sagrada\u201D\u2026\r\nDe acordo com
+    a tradi\xE7\xE3o, era produzida para representar pessoas falecidas e entes queridos.
+    Utilizada tamb\xE9m para agradecer aos deuses, os orix\xE1s, pela boa sa\xFAde,
+    riqueza, beleza, colheitas fartas e fertilidade."
+  fonteExplicacao: Primeiros Negros, 2021
+  respostaCorreta: ABAYOMI
+  imagemDeDica: {fileID: -5430484630803244835, guid: adcbfb714257ae24791386135abd2d12, type: 3}
+  textoDaPergunta: "Como se chama a boneca tradicional feita apenas com n\xF3s em
+    retalhos de pano, sem costura ou cola?"
+  letrasParaEmbaralhar: ABAYOMIOHQPJ

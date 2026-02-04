@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_06
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_6
+  NumeroMaxMovimentos: 70
+  titulo: Cesto
+  imagemPrincipal: {fileID: -5339802822297131579, guid: f606df9318b21b843bdeac3bc1154e29, type: 3}
+  textoDaExplicacao: a
+  fonteExplicacao: 
+  imagemReferencia: {fileID: -5339802822297131579, guid: f606df9318b21b843bdeac3bc1154e29, type: 3}
+  pecasDoPuzzle:
+  - {fileID: -8119095479050247300, guid: 1ad848d2e48ef804484596a048856cd8, type: 3}
+  - {fileID: -3374076471057048273, guid: bf9120ba57a2dfb48aae56f998ea34a5, type: 3}
+  - {fileID: 9092937648925859248, guid: 5576d318293b90a4e8c4ba6c9c19efdc, type: 3}
+  - {fileID: 3266043575645670373, guid: 58b9f7e9b832b3c49bcd13a6593352b5, type: 3}
+  - {fileID: -6902121706907055400, guid: 22394ecadc69c404194f07d34d46afb2, type: 3}
+  - {fileID: -655207479041001133, guid: 14294d0afc4aed649b3ec21c1872fefb, type: 3}
+  - {fileID: 6658999034324622536, guid: bbbd5ff08a687ac48b40747e6168459d, type: 3}
+  - {fileID: 187243962696572831, guid: 15dcc1f82275c184c8de971139798649, type: 3}
+  - {fileID: 4145642668699022525, guid: d6affa1552e7d2b4c8d24fb56fa7886a, type: 3}
+  - {fileID: 2541332069248931453, guid: 0a27bb0b4eff54a4ebde19ac08db4401, type: 3}
+  - {fileID: 4304081080277375604, guid: 6fa86a4abeba45843b0a71e8ae3caf6d, type: 3}
+  - {fileID: -80302702954362108, guid: c2f39b4864eee3b49b5d5615ce9a5e51, type: 3}
+  - {fileID: -7805968604884799850, guid: 392b492101d9340488e3ff1f00f44b3f, type: 3}
+  - {fileID: 4736514382537148968, guid: 267e5db67fe5e7b448b5e627b309ef94, type: 3}
+  - {fileID: 2061474046179163005, guid: ca35f973000265c4cb23d453932a67b8, type: 3}
+  - {fileID: -4133220701126129777, guid: b126f6c7bcb7edf40899178b73c500c9, type: 3}
+  - {fileID: -6579083734829829787, guid: a3106ff33740751499e8f8e6a42f6cc6, type: 3}
+  - {fileID: -1075538704273805993, guid: 96463b367804fd94293741696e6d4164, type: 3}
+  - {fileID: -2816011522576742048, guid: 38cf36cfa85782e47873ee7f451b0b91, type: 3}
+  - {fileID: 6036942675577299458, guid: 21c2fdf33beb42c4ab6f035e0502894c, type: 3}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5df160d43e31f4cb9c16955ab23d53, type: 3}
+  m_Name: Palavras_Nivel_07
+  m_EditorClassIdentifier: Assembly-CSharp::WordGameData
+  idDoNivel: palavras_7
+  NumeroMaxMovimentos: 30
+  titulo: Boubou
+  imagemPrincipal: {fileID: 321509282396464441, guid: 3cbd017e6cea38b40a3679b390a22bcd, type: 3}
+  textoDaExplicacao: "Um boubou (ou bubu, ou grand boubou, ou grand bubu) \xE9 uma
+    vestimenta africana usada por homens e mulheres durante grande parte do s\xE9culo
+    XIX. \xC1frica Ocidental e em certas partes \xC1frica Central . Seu nome vem
+    do termo Mbubb que significa roupas largas em Wolof.\r\nO boubou \xE9 usado tanto
+    por homens como por mulheres e \xE9 feito de diversas tangas (sendo a tanga um
+    peda\xE7o de tecido muito grande, medindo entre 2,10 m / 1,80 m). Esta ador\xE1vel
+    t\xFAnica africana \xE9 costurado por alfaiates de acordo com os gostos e prefer\xEAncias
+    dos clientes e \xE9 confeccionado em \u201C kitenge \u201D. Na maioria das vezes
+    bordada, as tend\xEAncias desta pe\xE7a de vestu\xE1rio est\xE3o em constante
+    mudan\xE7a, assim como os tecidos e os padr\xF5es.\nmbu\xEDdo de significado
+    simb\xF3lico, o boubou originou-se entre grupos ind\xEDgenas da \xC1frica Ocidental
+    no s\xE9culo VIII, e muito provavelmente aumentou em uso e popularidade com a
+    ascens\xE3o do Imp\xE9rios isl\xE2micos do s\xE9culo XI. O boubou \xE9 uma vestimenta
+    drapeada com mangas largas, historicamente usada pelos homens. O pano foi tecido
+    em tiras e cortado para a abertura do pesco\xE7o. Foi tingido profissionalmente
+    e fortemente bordado por estudiosos religiosos e artes\xE3os como sinal de prest\xEDgio.\r\nCom
+    os imp\xE9rios isl\xE2micos assumindo o controle da regi\xE3o, especialmente
+    ap\xF3s o s\xE9culo XV, o Roupas mu\xE7ulmanas , como kaftan , tornou-se sin\xF4nimo
+    de poder e deu origem a estilos derivados que s\xE3o usados \u200B\u200Bhoje
+    por homens e mulheres de diferentes religi\xF5es. Historicamente, os boubous
+    eram encomendados para clientes ricos, pois sua capacidade de comprar tecidos
+    e bordados excessivos no pesco\xE7o, no peito e nas costas davam-lhes uma vantagem.
+    alto escal\xE3o na sociedade. Eles s\xE3o mais frequentemente chamados de mbubb
+    em wolof, agbada em Yoruba , riga em Hausa ou boubou em Pa\xEDses africanos de
+    l\xEDngua francesa ."
+  fonteExplicacao: Royaume D'Afrique, 2021
+  respostaCorreta: BOUBOU
+  imagemDeDica: {fileID: 321509282396464441, guid: 3cbd017e6cea38b40a3679b390a22bcd, type: 3}
+  textoDaPergunta: "Como \xE9 chamada a veste longa e larga, de origem africana,
+    conhecida por seus tecidos coloridos e bordados?"
+  letrasParaEmbaralhar: BOUBOUPUQAXCC

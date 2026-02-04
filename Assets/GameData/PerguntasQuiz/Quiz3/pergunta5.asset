@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta5
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Qual foi a posi\xE7\xE3o de Dandara em rela\xE7\xE3o ao acordo
+    de paz de 1678 assinado por Ganga-Zumba?"
+  respostas:
+  - "Ela se op\xF4s ao acordo, buscando a liberta\xE7\xE3o total do povo negro."
+  - Ela apoiou o acordo, buscando paz para seus filhos.
+  - Ela foi quem negociou os termos do acordo com os portugueses.
+  - "Ela foi neutra, deixando a decis\xE3o para Zumbi"
+  indiceRespostaCorreta: 0
+  dica: "Ela compartilhava da mesma opini\xE3o de Zumbi sobre o tratado."
+  imagemDaPergunta: {fileID: 0}

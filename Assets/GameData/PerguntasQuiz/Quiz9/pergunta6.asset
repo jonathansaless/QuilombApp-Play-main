@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta6
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Qual \xE9 o nome do toque de berimbau que era usado historicamente
+    para avisar os capoeiristas da chegada da pol\xEDcia?"
+  respostas:
+  - "Toque de I\xFAna"
+  - Toque de Cavalaria
+  - Toque de Angola
+  - "Toque de S\xE3o Bento Grande"
+  indiceRespostaCorreta: 1
+  dica: "O nome desse toque faz refer\xEAncia \xE0s tropas montadas que perseguiam
+    os praticantes."
+  imagemDaPergunta: {fileID: 0}

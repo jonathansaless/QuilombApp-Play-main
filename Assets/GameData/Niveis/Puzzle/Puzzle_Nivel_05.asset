@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_05
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_5
+  NumeroMaxMovimentos: 70
+  titulo: Chaleira
+  imagemPrincipal: {fileID: 5760964587681210045, guid: 32a717c81483c16409cb96b3c23786de, type: 3}
+  textoDaExplicacao: "A cer\xE2mica de barro na cultura quilombola \xE9 uma express\xE3o
+    material de resist\xEAncia, mem\xF3ria e identidade ancestral, sendo uma pr\xE1tica
+    tradicional que incorpora saberes transmitidos entre gera\xE7\xF5es, principalmente
+    pelas mulheres, e que tem fun\xE7\xF5es tanto utilit\xE1rias quanto simb\xF3licas
+    e econ\xF4micas. \nHeran\xE7a Ancestral: A produ\xE7\xE3o de cer\xE2mica em comunidades
+    quilombolas \xE9 uma heran\xE7a cultural que remonta a tradi\xE7\xF5es ind\xEDgenas
+    e africanas, adaptadas e recriadas ao longo do tempo no Brasil. O uso do barro
+    est\xE1 enraizado na hist\xF3ria dessas popula\xE7\xF5es e na luta pela sobreviv\xEAncia
+    e manuten\xE7\xE3o de suas ra\xEDzes.\nTransmiss\xE3o de Conhecimento: O saber-fazer
+    \xE9, em muitos casos, um conhecimento dominado pelas mulheres (\"louceiras\")
+    e passado de gera\xE7\xE3o para gera\xE7\xE3o, o que fortalece os la\xE7os familiares
+    e comunit\xE1rios.\nFun\xE7\xE3o Utilit\xE1ria: Historicamente, as pe\xE7as de
+    barro \u2014 como panelas, potes, alguidares e tigelas \u2014 eram (e em muitos
+    lugares ainda s\xE3o) essenciais para o dia a dia, utilizadas no preparo e armazenamento
+    de alimentos.\nFun\xE7\xE3o Simb\xF3lica e Cultural: Al\xE9m do uso pr\xE1tico,
+    a cer\xE2mica tem um valor cultural imenso, representando a hist\xF3ria, a luta
+    e a resist\xEAncia do povo quilombola. As pe\xE7as podem ser usadas em rituais
+    religiosos e cerim\xF4nias, expressando a identidade da comunidade.\nFonte de
+    Renda: Atualmente, o artesanato de barro tamb\xE9m se tornou uma importante fonte
+    de renda para muitas fam\xEDlias quilombolas, com pe\xE7as utilit\xE1rias e decorativas
+    comercializadas em diversas regi\xF5es. "
+  fonteExplicacao: Santos, 2010
+  imagemReferencia: {fileID: 5760964587681210045, guid: 32a717c81483c16409cb96b3c23786de, type: 3}
+  pecasDoPuzzle:
+  - {fileID: -3287116747092382606, guid: abb4d939d8e8a614b99f5fb3101df297, type: 3}
+  - {fileID: -4680428121673682965, guid: 46725a8eefe472a428b33ef769a9f6ab, type: 3}
+  - {fileID: 6252512428462801159, guid: 33f44028568212f4eb37a6c36345631a, type: 3}
+  - {fileID: -1701217123233107615, guid: c2080e72eee3724449c7b4575e61ed22, type: 3}
+  - {fileID: -5341836425736242544, guid: 0772cc92c6c583045b8c82d9b1af44d7, type: 3}
+  - {fileID: 2876521755182810318, guid: d3bd402e3189c9d488093209441222e3, type: 3}
+  - {fileID: -5918132394378270432, guid: 547d668da823560458495f4b6e2a893d, type: 3}
+  - {fileID: 6659051640628956440, guid: 247e532d2a9463a4eab378b36c906940, type: 3}
+  - {fileID: -3173581846244242051, guid: f0e429342e4da7540a8b2b09f965b928, type: 3}
+  - {fileID: -6655094039754388984, guid: 5085d78e4c4d240448aa6006856b504b, type: 3}
+  - {fileID: 404357144097441540, guid: 245db9bc438c52a4ba5aa70a9401f0d8, type: 3}
+  - {fileID: 6384329010539500319, guid: 3d1f5bcf7d7aea443b1ff41e8abc9e70, type: 3}
+  - {fileID: 4501582212336111252, guid: 691d9bb4cbc714d4a96fc6a1b4c20938, type: 3}
+  - {fileID: -8721989622688202766, guid: a5fe42627d5b9104d910968cb5ce3920, type: 3}
+  - {fileID: 2908962478236258818, guid: ec73fecece9ea044f9d7ecf4b9193195, type: 3}
+  - {fileID: 5136281356236735264, guid: 86a96d28c4fe65446bfc47730a89a2e9, type: 3}
+  - {fileID: -3485630513840673510, guid: 1c2373c4f1c91604683c6a77a56d1393, type: 3}
+  - {fileID: 574152314634869724, guid: 92179f544291671489cc08715aae6f2d, type: 3}
+  - {fileID: -7656164660258146638, guid: 1b3d6fba25e654a4d99a931167d190d2, type: 3}
+  - {fileID: -2959864018882188000, guid: 1b99f1c7f6da60441adc2ed6243682f5, type: 3}

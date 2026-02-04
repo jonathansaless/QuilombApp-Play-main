@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_04
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_4
+  NumeroMaxMovimentos: 80
+  titulo: Pandeiro
+  imagemPrincipal: {fileID: 7942159271820101854, guid: 437ab893083edb740bf98bdcf8869fc5, type: 3}
+  textoDaExplicacao: "No Brasil, o pandeiro desempenha um papel essencial na cultura
+    e na m\xFAsica do pa\xEDs. Sua chegada est\xE1 relacionada \xE0 coloniza\xE7\xE3o
+    portuguesa e ao tr\xE1fico de escravos africanos. Os escravos africanos trouxeram
+    suas tradi\xE7\xF5es musicais, incluindo o uso de tambores e pandeiros, que foram
+    incorporados \xE0 cultura brasileira e deram origem a diversos estilos musicais,
+    como o samba e o choro.\r\nO pandeiro \xE9 conhecido por sua versatilidade musical.
+    Ele pode ser utilizado em diversos estilos musicais, como samba, choro, forr\xF3,
+    m\xFAsica folcl\xF3rica, m\xFAsica latina e muitos outros. Sua presen\xE7a \xE9
+    marcante em festivais, dan\xE7as, apresenta\xE7\xF5es teatrais e at\xE9 mesmo
+    em rituais religiosos, refletindo a sua import\xE2ncia na cultura popular.\r\nAl\xE9m
+    de sua import\xE2ncia na m\xFAsica, o pandeiro tamb\xE9m desempenha um papel
+    significativo na cultura e nas tradi\xE7\xF5es de diferentes comunidades. Em
+    muitas culturas, o pandeiro est\xE1 associado a celebra\xE7\xF5es, festividades
+    e express\xF5es de identidade cultural, tornando-se um s\xEDmbolo de uni\xE3o
+    e alegria."
+  fonteExplicacao: "Ac\xFAstico, 2025"
+  imagemReferencia: {fileID: 7942159271820101854, guid: 437ab893083edb740bf98bdcf8869fc5, type: 3}
+  pecasDoPuzzle:
+  - {fileID: -3427977759864990032, guid: ae877ec4dbb690448bbf8d67e078c847, type: 3}
+  - {fileID: -3358813463670456868, guid: 63babfb422545fe4abe571f348579c03, type: 3}
+  - {fileID: 5487608420541503423, guid: 8a0c4ae8cfb731a4f8f328a0d811f60b, type: 3}
+  - {fileID: 1084821850088044909, guid: 534fc8bcc71f3854593e02cd868f7b7c, type: 3}
+  - {fileID: -3394396946212222303, guid: e177192d290161c43b673bc14eb08baa, type: 3}
+  - {fileID: 3249483020512014272, guid: bec453e6f38921e4b931ba613cb7fc8d, type: 3}
+  - {fileID: 8245011022936853559, guid: bfa8f75b0c18f1c4092cfbd89ba31d9a, type: 3}
+  - {fileID: 4197998971246573767, guid: e0d793605c9db3642af0e5c95ca1a2d7, type: 3}
+  - {fileID: -6286966145324377294, guid: 9f5cece120e021544ad9fd4d1328bfa3, type: 3}
+  - {fileID: -8505521338714076901, guid: 1826c833b27cfb04689c9083fe510b51, type: 3}
+  - {fileID: -7738576851585072758, guid: 3503e401472053544a09993e0e861d73, type: 3}
+  - {fileID: -7016447382577951585, guid: 36721860a591680429185ec210df0f35, type: 3}
+  - {fileID: -8363757805848924049, guid: d29f917dc4345274d8730e0b2d1bce61, type: 3}
+  - {fileID: 1414874250567972189, guid: ebc7da4af3874c44e95156ce7fd03576, type: 3}
+  - {fileID: 4051967157708654822, guid: 0e5b42dbc19128349b5f38b255acb427, type: 3}
+  - {fileID: 4031425965122379576, guid: 23a439967eaa79449b0a8295bb195729, type: 3}
+  - {fileID: 1785664250925761067, guid: 4a4159a7b1f3b314cbfaec22aab6ba62, type: 3}
+  - {fileID: 4449215263074217500, guid: 966cef8243503e041badadabc111c10d, type: 3}
+  - {fileID: 2526296698286858856, guid: faa0260f95c92784ca5520b1755f4290, type: 3}
+  - {fileID: 7501111906184379182, guid: fb3490c0e63058949b2fd39d8d613e43, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta5
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Por que Zumbi dos Palmares se op\xF4s ao acordo de paz assinado
+    por seu tio, Ganga Zumba, em 1678?"
+  respostas:
+  - "Porque o acordo proibia a pr\xE1tica da capoeira no quilombo."
+  - "Porque Zumbi queria se tornar o \xFAnico rei de Palmares."
+  - Porque o acordo exigia que Zumbi entregasse suas armas pessoais.
+  - "Porque o acordo n\xE3o libertava todos os escravos, apenas os nascidos em Palmares."
+  indiceRespostaCorreta: 3
+  dica: FALTA DICA
+  imagemDaPergunta: {fileID: 0}

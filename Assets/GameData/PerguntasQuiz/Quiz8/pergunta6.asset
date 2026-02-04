@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta6
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "De acordo com a tradi\xE7\xE3o, o que significa presentear algu\xE9m
+    com uma boneca Abayomi?"
+  respostas:
+  - Um pedido de desculpas formal
+  - "Um convite para uma festa ou celebra\xE7\xE3o"
+  - Um aviso de perigo iminente
+  - "Significa a doa\xE7\xE3o do melhor de si mesmo para a outra pessoa"
+  indiceRespostaCorreta: 3
+  dica: "O pr\xF3prio nome da boneca, 'encontro precioso', d\xE1 uma pista sobre
+    o valor desse gesto."
+  imagemDaPergunta: {fileID: 0}

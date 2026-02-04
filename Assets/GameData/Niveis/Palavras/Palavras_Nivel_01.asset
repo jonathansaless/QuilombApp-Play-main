@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5df160d43e31f4cb9c16955ab23d53, type: 3}
+  m_Name: Palavras_Nivel_01
+  m_EditorClassIdentifier: Assembly-CSharp::WordGameData
+  idDoNivel: palavras_1
+  NumeroMaxMovimentos: 40
+  titulo: Turbante
+  imagemPrincipal: {fileID: -7387368776685413153, guid: 28507749dec2c8b46b8de964c40b5381, type: 3}
+  textoDaExplicacao: "O turbante \xE9 uma pe\xE7a de vestu\xE1rio que transcende
+    o seu prop\xF3sito funcional e se torna um poderoso s\xEDmbolo cultural e hist\xF3rico
+    em muitas partes do mundo. A sua origem remonta a s\xE9culos atr\xE1s, com uma
+    rica diversidade de estilos e significados em diferentes culturas.\nNos \xFAltimos
+    anos, o item ganhou notoriedade especial como um importante s\xEDmbolo de resist\xEAncia
+    e identidade entre as comunidades negras, representando a heran\xE7a africana,
+    a luta contra a opress\xE3o racial e a afirma\xE7\xE3o da beleza negra.\r\nDessa
+    forma, o turbante n\xE3o \xE9 mais uma pe\xE7a de roupa, mas um emblema que ecoa
+    for\xE7a, resist\xEAncia e a luta por igualdade ao longo da hist\xF3ria.\r\nUsado
+    de forma majestosa e variada por pessoas de ascend\xEAncia africana em diferentes
+    partes do mundo, o turbante transcende a moda para se tornar um manifesto cultural
+    e pol\xEDtico. Ele carrega consigo a heran\xE7a de s\xE9culos de opress\xE3o
+    racial, mas tamb\xE9m representa a for\xE7a, a identidade e a celebra\xE7\xE3o
+    da cultura africana.\r\nVers\xE1til, plural e multifuncional. Assim como o jeans,
+    o turbante \xE9 mais que uma pe\xE7a ou um acess\xF3rio e expressa identidade.
+    A uni\xE3o dos dois itens j\xE1 \xE9 uma tend\xEAncia no mundo da moda e o encontro
+    das pe\xE7as coroa a diversidade."
+  fonteExplicacao: Portal Meu RH, 2023
+  respostaCorreta: TURBANTE
+  imagemDeDica: {fileID: -7387368776685413153, guid: 28507749dec2c8b46b8de964c40b5381, type: 3}
+  textoDaPergunta: "Como se chama este acess\xF3rio de cabe\xE7a, feito de tecido,
+    que \xE9 um s\xEDmbolo de identidade e cultura?"
+  letrasParaEmbaralhar: TURBANTEJSEAK

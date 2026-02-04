@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta5
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Em qual capitania (atual estado) estava localizado o Quilombo
+    de Quariter\xEA, liderado por Tereza de Benguela?"
+  respostas:
+  - "Maranh\xE3o"
+  - Pernambuco (atual Alagoas)
+  - Mato Grosso
+  - Bahia
+  indiceRespostaCorreta: 2
+  dica: "Era uma regi\xE3o de minera\xE7\xE3o no extremo oeste do Brasil colonial,
+    perto do rio Guapor\xE9."
+  imagemDaPergunta: {fileID: 0}

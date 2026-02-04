@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4dd5ce05ddea564abd0d6a62fd5da6c, type: 3}
+  m_Name: ModoQuizData
+  m_EditorClassIdentifier: Assembly-CSharp::ModoDeJogoData
+  nomeDoModo: Quiz
+  nomeDaCena: CenaQuiz
+  niveis:
+  - {fileID: 11400000, guid: 4904cdc3b1047b140bd87991f8ae572a, type: 2}
+  - {fileID: 11400000, guid: 569c118fa5e703949b7731a920969e3d, type: 2}
+  - {fileID: 11400000, guid: f1d25e772197aad468214387035317d6, type: 2}
+  - {fileID: 11400000, guid: a480a6082c9543c4ca75b06fbad32c20, type: 2}
+  - {fileID: 11400000, guid: fcfe8b5018ff75540a1bc9a8122990e7, type: 2}
+  - {fileID: 11400000, guid: 35e60259b2059f544b70ecada8d3551b, type: 2}
+  - {fileID: 11400000, guid: 78db9b25571d5314e94c2f932c4ac4a2, type: 2}
+  - {fileID: 11400000, guid: d82f4bf685769e0419c48909cefe987e, type: 2}
+  - {fileID: 11400000, guid: fc492356cd2fdda4984eff1aa35defc5, type: 2}
+  - {fileID: 11400000, guid: f28348fbabd0b0d41bc1b93bf7e39d1f, type: 2}

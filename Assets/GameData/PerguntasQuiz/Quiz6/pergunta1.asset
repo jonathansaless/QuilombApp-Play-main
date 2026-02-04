@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta1
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: Qual foi o principal desafio ou pretexto usado por setores racistas
+    para tentar impedir a posse de Quintino de Lacerda como vereador?
+  respostas:
+  - Eles disseram que ele ainda era um escravo fugitivo.
+  - Eles alegaram que ele era analfabeto.
+  - "Eles alegaram que ele n\xE3o nasceu em Santos."
+  - "Eles o acusaram de roubar o rel\xF3gio de ouro que ganhou."
+  indiceRespostaCorreta: 1
+  dica: "Foi um pretexto ligado \xE0 sua educa\xE7\xE3o formal, ou \xE0 falta dela."
+  imagemDaPergunta: {fileID: 0}

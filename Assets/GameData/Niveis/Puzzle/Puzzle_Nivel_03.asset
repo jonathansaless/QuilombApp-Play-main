@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_03
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_3
+  NumeroMaxMovimentos: 80
+  titulo: "Pil\xE3o"
+  imagemPrincipal: {fileID: -6396861755240838814, guid: 216abb7d87e700a47879fcc01b38b279, type: 3}
+  textoDaExplicacao: "Origin\xE1rio da \xC1frica, o pil\xE3o (ou almofariz) \xE9
+    utilizado h\xE1 centenas de anos para triturar, amassar e moer, ou seja, para
+    pilar alimentos e transform\xE1-los em algo novo. Historicamente, os pil\xF5es
+    da \xC1frica s\xE3o grandes e podem ser utilizados por v\xE1rias pessoas ao mesmo
+    tempo, com o intuito de moer gr\xE3os.\nEm nosso dia a dia, o pil\xE3o pode ser
+    um grande aliado para criar preparos muitos saborosos. Na \xC1frica o costume
+    \xE9 que as mulheres pilem ao ritmo de uma m\xFAsica caracter\xEDstica, que tamb\xE9m
+    marca as batidas no pil\xE3o.\nO uso do pil\xE3o pode mesmo gerar d\xFAvidas,
+    mas basta colocar o que voc\xEA deseja moer e segurar o pil\xE3o com uma m\xE3o
+    enquanto a outra amassa os ingredientes. Escolha a m\xE3o com maior controle
+    para pilar e segure com a outra o recipiente, procurando tapar a boca do pil\xE3o
+    para que os ingredientes n\xE3o caiam.\nEm primeiro lugar, comece moendo os itens
+    mais densos para depois unir \xE0 mistura os temperos que se desfazem facilmente.
+    Por \xFAltimo, s\xE3o colocados os temperos em p\xF3 \u2013 como o curry, a pimenta
+    e o sal \u2013 para se juntarem \xE0 pasta formada anteriormente pelos temperos
+    mo\xEDdos.\n"
+  fonteExplicacao: Mundo Negro, 2020
+  imagemReferencia: {fileID: -6396861755240838814, guid: 216abb7d87e700a47879fcc01b38b279, type: 3}
+  pecasDoPuzzle:
+  - {fileID: 2675562520369242249, guid: 2d17eb089a2ee51468cac479d80405b5, type: 3}
+  - {fileID: -681847178939501868, guid: 975512285254a6c4f97f05b49b2fb23a, type: 3}
+  - {fileID: 8820750425366660880, guid: db52491787dea8245b7abd66e411d079, type: 3}
+  - {fileID: 1005685549344785597, guid: 6fba7ddcba13238489603a8baad9ee51, type: 3}
+  - {fileID: 4969920526043226489, guid: 006462175ad19f747b284f8361069a34, type: 3}
+  - {fileID: -7923282345753786059, guid: b28e725ed3d92ae4e93d8375be3c7743, type: 3}
+  - {fileID: 7972732231754782378, guid: b5553d36700d6cf41b97985ba07ddf54, type: 3}
+  - {fileID: 3459706412559450109, guid: 800bd9ecd5543b14895049fed4fde670, type: 3}
+  - {fileID: -1712988920937694798, guid: 769f13da2ba8d2c4f84faa80673b6e6b, type: 3}
+  - {fileID: -5028364047170020207, guid: 89f1781d79ae5ee4bb9e6a2ddd39a828, type: 3}
+  - {fileID: 2666296357243944376, guid: 9e969d7207b592544a110890488cae64, type: 3}
+  - {fileID: 5019612551205471438, guid: dbf325b2a50b7134b9a1104d6ae6f967, type: 3}
+  - {fileID: 4280491855498866184, guid: 0746660b805c6c1408c3612cd5652229, type: 3}
+  - {fileID: -743515207115614947, guid: 63827ceac2adb0f429acffbdfe449a94, type: 3}
+  - {fileID: -3266095593694069272, guid: 1814bbabae874874c8e8f3a06d944797, type: 3}
+  - {fileID: -6620115801005933802, guid: f568ed02335db274f9455b2835f8db21, type: 3}
+  - {fileID: -4408938221066896942, guid: f22cb327ce065e04cba02a2b105438ec, type: 3}
+  - {fileID: -6161357584392607988, guid: e5e35dc400f3b554a9e97c4dff018048, type: 3}
+  - {fileID: 858878915939667529, guid: 4771fa679d7cc274592a51a1cb2ed299, type: 3}
+  - {fileID: -4882487839821143480, guid: 31bffe3dc2193c941bf90ab5eddfafad, type: 3}

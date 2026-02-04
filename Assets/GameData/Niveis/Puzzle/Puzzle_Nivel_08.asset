@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_08
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_8
+  NumeroMaxMovimentos: 60
+  titulo: Boubou
+  imagemPrincipal: {fileID: 321509282396464441, guid: c3101687332da8842af68013d4f78c7a, type: 3}
+  textoDaExplicacao: "Um boubou (ou bubu, ou grand boubou, ou grand bubu) \xE9 uma
+    vestimenta africana usada por homens e mulheres durante grande parte do s\xE9culo
+    XIX. \xC1frica Ocidental e em certas partes \xC1frica Central . Seu nome vem
+    do termo Mbubb que significa roupas largas em Wolof.\nO boubou \xE9 usado tanto
+    por homens como por mulheres e \xE9 feito de diversas tangas (sendo a tanga um
+    peda\xE7o de tecido muito grande, medindo entre 2,10 m / 1,80 m). Esta ador\xE1vel
+    t\xFAnica africana \xE9 costurado por alfaiates de acordo com os gostos e prefer\xEAncias
+    dos clientes e \xE9 confeccionado em \u201C kitenge \u201D. Na maioria das vezes
+    bordada, as tend\xEAncias desta pe\xE7a de vestu\xE1rio est\xE3o em constante
+    mudan\xE7a, assim como os tecidos e os padr\xF5es.\nmbu\xEDdo de significado
+    simb\xF3lico, o boubou originou-se entre grupos ind\xEDgenas da \xC1frica Ocidental
+    no s\xE9culo VIII, e muito provavelmente aumentou em uso e popularidade com a
+    ascens\xE3o do Imp\xE9rios isl\xE2micos do s\xE9culo XI. O boubou \xE9 uma vestimenta
+    drapeada com mangas largas, historicamente usada pelos homens. O pano foi tecido
+    em tiras e cortado para a abertura do pesco\xE7o. Foi tingido profissionalmente
+    e fortemente bordado por estudiosos religiosos e artes\xE3os como sinal de prest\xEDgio.\nCom
+    os imp\xE9rios isl\xE2micos assumindo o controle da regi\xE3o, especialmente
+    ap\xF3s o s\xE9culo XV, o Roupas mu\xE7ulmanas , como kaftan , tornou-se sin\xF4nimo
+    de poder e deu origem a estilos derivados que s\xE3o usados \u200B\u200Bhoje
+    por homens e mulheres de diferentes religi\xF5es. Historicamente, os boubous
+    eram encomendados para clientes ricos, pois sua capacidade de comprar tecidos
+    e bordados excessivos no pesco\xE7o, no peito e nas costas davam-lhes uma vantagem.
+    alto escal\xE3o na sociedade. Eles s\xE3o mais frequentemente chamados de mbubb
+    em wolof, agbada em Yoruba , riga em Hausa ou boubou em Pa\xEDses africanos de
+    l\xEDngua francesa ."
+  fonteExplicacao: Royaume D'Afrique, 2021
+  imagemReferencia: {fileID: 321509282396464441, guid: c3101687332da8842af68013d4f78c7a, type: 3}
+  pecasDoPuzzle:
+  - {fileID: 8772401361362628592, guid: ddb30769922dba146a6e7b3aa93f0e1d, type: 3}
+  - {fileID: -3084331780526109401, guid: 5e113548179174a43abacea39ab729bb, type: 3}
+  - {fileID: 7409795401178001601, guid: 24fad230ac20c21418942acd84bf120c, type: 3}
+  - {fileID: -961060828362163393, guid: 5058470fac609e1478672637bf8431df, type: 3}
+  - {fileID: 1879292472585141385, guid: e124cc4c61bee774a969f78564733ede, type: 3}
+  - {fileID: 6613678754791232806, guid: 85852bf833ba10943ba4042031355209, type: 3}
+  - {fileID: -4149547329631713223, guid: 3a7c1b7d4a54db4429743d4079d00f4f, type: 3}
+  - {fileID: 6966136690715092214, guid: 1d99179c91f946c4e9ac4210ae04cdd6, type: 3}
+  - {fileID: -927014519562569308, guid: de25dfa12e114dc4da18ba0a35859621, type: 3}
+  - {fileID: -5995821813686997181, guid: 5a287e86d1df2e54c91e8e96a4613bd8, type: 3}
+  - {fileID: -4490515890654840485, guid: 0edd9542654cd3c499692a7b0c9c325a, type: 3}
+  - {fileID: 479587212130217731, guid: 14a7cdb69148ca143a5771c88faea411, type: 3}
+  - {fileID: -2662279664613571236, guid: 032bd6abad04cb943a93db9d0c245ac8, type: 3}
+  - {fileID: 3777151657527143785, guid: c2855221c1d051d4c852cd7d601c6ea1, type: 3}
+  - {fileID: 368139633266301158, guid: 8f515f02f9484494092cf9ada32b646b, type: 3}
+  - {fileID: -6012336470677218874, guid: 6ddee68051d18e64e9807bc450ddbf2f, type: 3}
+  - {fileID: -1693349383120157453, guid: af2523128cbc4334db17d95cc4aeb014, type: 3}
+  - {fileID: -5420819727642789613, guid: 4b3302115269b734d970e979f3ce2929, type: 3}
+  - {fileID: -2344613150079097661, guid: 733ee310f6153264aa92429452976f27, type: 3}
+  - {fileID: -5942557776474730940, guid: 4d3cc6626c9ad0a409caceead11881c8, type: 3}

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_10
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_10
+  NumeroMaxMovimentos: 50
+  titulo: Berimbau
+  imagemPrincipal: {fileID: -6762165508358410587, guid: d419b703e51632c4c90a3f4564ed59bd, type: 3}
+  textoDaExplicacao: "Recebe o nome de berimbau um instrumento de percuss\xE3o caracter\xEDstico
+    do Brasil, figura indispens\xE1vel em todas as rodas de capoeira, apesar de estar
+    presente em outros contextos, como por exemplo as celebra\xE7\xF5es do candombl\xE9-de-caboclo
+    (segmento do candombl\xE9 que inclui em seu meio o culto a outras entidades de
+    origem ind\xEDgena e mesti\xE7a). Nos tempos de escravid\xE3o, os africanos utilizavam-se
+    do berimbau para comunicar-se de modo sigiloso.\nApesar de uma ou outra discord\xE2ncia,
+    \xE9 quase pac\xEDfico o entendimento de que o instrumento tenha origem na \xC1frica
+    e seja de origem bantu, sendo que podemos at\xE9 hoje encontrar em partes do
+    continente, especialmente na regi\xE3o sul, instrumentos bastante similares e
+    tocados de modo similares ao berimbau. Na verdade, o instrumento migrou at\xE9
+    mesmo para a \xCDndia, onde a comunidade siddhi (os siddhis indianos s\xE3o descendentes
+    de escravos africanos, vindos de Mo\xE7ambique, Tanz\xE2nia e Qu\xEAnia) utiliza
+    um instrumento musical id\xEAntico ao berimbau, e que recebe o nome de \"malunga\".\nO
+    instrumento \xE9 composto de uma caba\xE7a, um arco geralmente feito da madeira
+    chamada biriba, a qual \xE9 envergada por um cabo de arame, uma baqueta com a
+    qual se percute o arame; ao mesmo tempo em que a m\xE3o da baqueta percute o
+    arame, esta segura o caxixi, um pequeno cesto contendo pequenas sementes ou algo
+    similar dentro, que ajuda no som percussivo; com a outra m\xE3o, o instrumentista
+    segura uma pedra ou um peda\xE7o de metal (popularmente chamado de dobr\xE3o)
+    que \xE9 levado de encontro ao arame, causando varia\xE7\xE3o nos tons emitido
+    pelo arco.\n"
+  fonteExplicacao: Infoescola, 2008
+  imagemReferencia: {fileID: -6762165508358410587, guid: d419b703e51632c4c90a3f4564ed59bd, type: 3}
+  pecasDoPuzzle:
+  - {fileID: -3223918192216808655, guid: 7fe4a23d72d56a44fb5759aceae141db, type: 3}
+  - {fileID: 3758704018982321905, guid: 601f1aafaf6191349805d1844e6cc660, type: 3}
+  - {fileID: 662606652608597167, guid: 150588280c39f694aac9bdd53ca27ab4, type: 3}
+  - {fileID: 7027863300038548814, guid: 185d78fc5a8c3814a93c1554d73398f9, type: 3}
+  - {fileID: -3979967886802236061, guid: 63f29635e7be68440a459601212dfa37, type: 3}
+  - {fileID: -8664765761401227533, guid: fa1cefd746e90c04a8c0cca3beae97a3, type: 3}
+  - {fileID: -7501743079302095104, guid: 38392f1686d726244ba60c0f013be86d, type: 3}
+  - {fileID: 7195918577077886129, guid: 36df4db4531cb0e44b12edb653a26f5f, type: 3}
+  - {fileID: 7432636759420257542, guid: 912f53b26f9132f4ba6fdf42a103b218, type: 3}
+  - {fileID: -5891507140960538156, guid: e813a0aa75d23824d8470ae09e55e836, type: 3}
+  - {fileID: 8968142969104632291, guid: f03b6b472a001c6458b8381bdf7244f4, type: 3}
+  - {fileID: -3674749176008353450, guid: e7180c23ec1aa254e8322cee27fb6c68, type: 3}
+  - {fileID: 7029241952129108605, guid: bb7e2bfc93ea6a44fb1edfd66c7f578f, type: 3}
+  - {fileID: -2927259357662671537, guid: f26f05404dce1b048b126141cac73407, type: 3}
+  - {fileID: 1235003000058407944, guid: 96a69b7d92729f047ada578880109775, type: 3}
+  - {fileID: -6612798494271201452, guid: d262bad3981aeaf4b8da60653005384c, type: 3}
+  - {fileID: 1796743524366434709, guid: e00afa057a9e23c4da2d8437f3539793, type: 3}
+  - {fileID: -6067328282624673876, guid: cfc0bb52305876448a36fe2f911719d5, type: 3}
+  - {fileID: -3556046545549165681, guid: 3de26fde154a1de429e0591c18448ded, type: 3}
+  - {fileID: -4113650759071172485, guid: a69a725cb4faca042909d5784f254993, type: 3}

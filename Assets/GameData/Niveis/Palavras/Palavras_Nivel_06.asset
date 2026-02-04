@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5df160d43e31f4cb9c16955ab23d53, type: 3}
+  m_Name: Palavras_Nivel_06
+  m_EditorClassIdentifier: Assembly-CSharp::WordGameData
+  idDoNivel: palavras_6
+  NumeroMaxMovimentos: 30
+  titulo: Cesto
+  imagemPrincipal: {fileID: -5339802822297131579, guid: ba01dbd1411ca19449726b30c3e03050, type: 3}
+  textoDaExplicacao: aqwdfwqd
+  fonteExplicacao: 
+  respostaCorreta: CESTO
+  imagemDeDica: {fileID: -5339802822297131579, guid: ba01dbd1411ca19449726b30c3e03050, type: 3}
+  textoDaPergunta: "Qual \xE9 o nome do objeto tran\xE7ado com fibras de Buriti,
+    usado para carregar ou armazenar alimentos e objetos?"
+  letrasParaEmbaralhar: CESTOBVXLU

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta8
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Lu\xEDsa Mahin foi m\xE3e de qual importante figura do movimento
+    abolicionista brasileiro?"
+  respostas:
+  - Zumbi dos Palmares
+  - Ganga Zumba
+  - "Lu\xEDs Gama"
+  - Quintino de Lacerda
+  indiceRespostaCorreta: 2
+  dica: Ele foi um famoso poeta, jornalista e advogado autodidata que libertou muitos
+    escravos.
+  imagemDaPergunta: {fileID: 0}

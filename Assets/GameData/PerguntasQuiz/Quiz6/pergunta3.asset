@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta3
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: Que objeto Quintino de Lacerda recebeu como homenagem popular
+    em 1888 por sua luta abolicionista?
+  respostas:
+  - "O t\xEDtulo de Major Honor\xE1rio da Guarda Nacional."
+  - "Uma est\xE1tua de bronze no centro de Santos."
+  - "Um rel\xF3gio de ouro com uma inscri\xE7\xE3o."
+  - A chave da cidade de Santos.
+  indiceRespostaCorreta: 2
+  dica: "Foi um presente valioso e pessoal, com uma grava\xE7\xE3o."
+  imagemDaPergunta: {fileID: 0}

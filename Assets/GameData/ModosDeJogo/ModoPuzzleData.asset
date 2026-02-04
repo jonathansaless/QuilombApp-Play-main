@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4dd5ce05ddea564abd0d6a62fd5da6c, type: 3}
+  m_Name: ModoPuzzleData
+  m_EditorClassIdentifier: Assembly-CSharp::ModoDeJogoData
+  nomeDoModo: "Quebra Cabe\xE7a"
+  nomeDaCena: CenaQuebraCabeca
+  niveis:
+  - {fileID: 11400000, guid: 707856d118640784b82928fa37cccdb2, type: 2}
+  - {fileID: 11400000, guid: 0e24560477a6d4e45a1bf8c4e3c3d8db, type: 2}
+  - {fileID: 11400000, guid: 3b211e3be97e964498ab682f4cfe7d2f, type: 2}
+  - {fileID: 11400000, guid: a74b9b8c7a1f0e14d93548626f3257fe, type: 2}
+  - {fileID: 11400000, guid: 683bb5de3b5e63a43b5e974d6dacd91e, type: 2}
+  - {fileID: 11400000, guid: e03ed96429bf0624893dae6a938dcef3, type: 2}
+  - {fileID: 11400000, guid: 32aa4fda984e67a4cbfc7ab0eeda9786, type: 2}
+  - {fileID: 11400000, guid: 63c96f1d49e8cca4ab636bedec3c7936, type: 2}
+  - {fileID: 11400000, guid: 801c6e1bb080c6c43958ed56ef2a3336, type: 2}
+  - {fileID: 11400000, guid: 9fd70281f79e06745beeda4ddd0b1702, type: 2}

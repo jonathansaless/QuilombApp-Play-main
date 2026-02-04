@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta8
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Qual \xE9 a origem do nome 'Quilombo dos Palmares'?"
+  respostas:
+  - "Em homenagem \xE0 'Palma', a esposa do primeiro l\xEDder do quilombo."
+  - Era o sobrenome do bandeirante que o descobriu, 'Palma'.
+  - "Devido \xE0 abund\xE2ncia de palmeiras na regi\xE3o da Serra da Barriga"
+  - Vem da palavra africana 'Palmar', que significa 'liberdade'.
+  indiceRespostaCorreta: 2
+  dica: "A vegeta\xE7\xE3o local era t\xE3o caracter\xEDstica que batizou o local,
+    fornecendo alimento e mat\xE9ria-prima."
+  imagemDaPergunta: {fileID: 0}

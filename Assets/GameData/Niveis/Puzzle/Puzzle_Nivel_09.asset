@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06508eb78348c4243bccec79b07da6bf, type: 3}
+  m_Name: Puzzle_Nivel_09
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  idDoNivel: puzzle_9
+  NumeroMaxMovimentos: 50
+  titulo: Boneca abayomi
+  imagemPrincipal: {fileID: -5430484630803244835, guid: ee7e193d952f8d249b681d88f9eb16cb, type: 3}
+  textoDaExplicacao: "Produzida pelas mulheres, a partir das pr\xF3prias vestes,
+    abayomis distra\xEDam as crian\xE7as sequestradas, em \xC1frica, para a escravid\xE3o
+    no Brasil.\r\nIsso, pelo menos, \xE9 o que se conta\u2026 E \xE9 uma hist\xF3ria
+    bonita em meio \xE0 crueldade e \xE0 viol\xEAncia da escraviza\xE7\xE3o negra.\r\nA
+    palavra abayomi significa \u201Cencontro precioso\u201D em yorub\xE1, idioma
+    original da Nig\xE9ria, o pa\xEDs mais populoso de \xC1frica, na regi\xE3o Ocidental
+    do continente.\r\nO fato inquestion\xE1vel \xE9 que nada precioso esperava os
+    pequenos \u201Ctripulantes\u201D dos navios negreiros \u2013 chamados tumbeiros
+    -,  que atravessavam o oceano Atl\xE2ntico a caminho do Brasil. E imaginando
+    a dor dos nossos antepassados, de todas as idades, acalma o cora\xE7\xE3o imaginar
+    que as crian\xE7as choravam e as m\xE3es rasgavam retalhos de suas saias e criavam
+    pequenas bonecas, feitas de tran\xE7as ou n\xF3s, que serviam como amuleto de
+    prote\xE7\xE3o.\r\nAssim elas acalentavam seus filhos e filhas, continham as
+    l\xE1grimas dos menores, e transformaram, mesmo sem saber, as bonecas em s\xEDmbolo
+    de resist\xEAncia.\r\nH\xE1 quem duvide que as abayomis s\xE3o as primeiras bonecas
+    africanas a chegarem ao Brasil.\r\nA boneca africana \u2013 ou afro-brasileira
+    \u2013 n\xE3o \xE9 simplesmente um brinquedo. Tem hist\xF3ria, ancestralidade.
+    Guarda cultura. Sua hist\xF3ria se confunde com os mitos africanos, muitos deles
+    apropriados pela chamada \u201Cb\xEDblia sagrada\u201D\u2026\r\nDe acordo com
+    a tradi\xE7\xE3o, era produzida para representar pessoas falecidas e entes queridos.
+    Utilizada tamb\xE9m para agradecer aos deuses, os orix\xE1s, pela boa sa\xFAde,
+    riqueza, beleza, colheitas fartas e fertilidade."
+  fonteExplicacao: Primeiros Negros, 2021
+  imagemReferencia: {fileID: -5430484630803244835, guid: ee7e193d952f8d249b681d88f9eb16cb, type: 3}
+  pecasDoPuzzle:
+  - {fileID: -6966165841026130294, guid: 3bb5adb5eb5a73740966b00b4b81a5bf, type: 3}
+  - {fileID: -7947765293984994993, guid: cd44d7e1b5bf30e4eac64dc591f2b2d8, type: 3}
+  - {fileID: 1213771682380541683, guid: e7b6882e0708a6a41bde932e2a6f854d, type: 3}
+  - {fileID: 3981706432137507109, guid: bbb22abdfbaf53c47902d90ff17b90a7, type: 3}
+  - {fileID: 729110051187025578, guid: e62fac22fc72af440b2708543d6d40bc, type: 3}
+  - {fileID: -8418759057928737248, guid: 75ee7c3104dbbd74bb6640690544833c, type: 3}
+  - {fileID: 3047959076381950467, guid: 607f3621c1af2734bbb29c65547b25e6, type: 3}
+  - {fileID: -3681034633090063356, guid: cf616fd3775c4f64eacc860d568678ef, type: 3}
+  - {fileID: -2891787691772582384, guid: f59d7a08928b6c9498a8934f0a70eb66, type: 3}
+  - {fileID: 1527976731604844685, guid: 72de1dd801782d14085981c8e9787396, type: 3}
+  - {fileID: 5299203033478988204, guid: 8d167e7d343321d4b8abd04a95bbd1f3, type: 3}
+  - {fileID: 7773548003544305382, guid: 9039d32882a2c184b84f18c67932c84f, type: 3}
+  - {fileID: 100934782943685273, guid: 6021cdf18df5d9a47a4b2a4ec7f39a55, type: 3}
+  - {fileID: 3303674687805451519, guid: fa008be3ac3ab1c49a48fc0e9a48e9df, type: 3}
+  - {fileID: 499082865625817075, guid: e1605bae42417304caa34160e53ce12f, type: 3}
+  - {fileID: -5451822152008158543, guid: 99dd70cfebf07634cb91574eef45c992, type: 3}
+  - {fileID: 8421483796587882756, guid: 86f550609a3bf3941b5bb4eace8750bf, type: 3}
+  - {fileID: -7831639025136499470, guid: c2cba0e156fc9c542a5bd6b2564401f0, type: 3}
+  - {fileID: -4847511207605587250, guid: 761426da5072dc74f9fa8d9f748aca97, type: 3}
+  - {fileID: -2540051094027348948, guid: 47d757cfc81a0cc40ac337f79982d514, type: 3}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5df160d43e31f4cb9c16955ab23d53, type: 3}
+  m_Name: Palavras_Nivel_03
+  m_EditorClassIdentifier: Assembly-CSharp::WordGameData
+  idDoNivel: palavras_3
+  NumeroMaxMovimentos: 35
+  titulo: Berimbau
+  imagemPrincipal: {fileID: -6762165508358410587, guid: ec3e2e3187fd1eb47b6644b8ae701fcc, type: 3}
+  textoDaExplicacao: "Recebe o nome de berimbau um instrumento de percuss\xE3o caracter\xEDstico
+    do Brasil, figura indispens\xE1vel em todas as rodas de capoeira, apesar de estar
+    presente em outros contextos, como por exemplo as celebra\xE7\xF5es do candombl\xE9-de-caboclo
+    (segmento do candombl\xE9 que inclui em seu meio o culto a outras entidades de
+    origem ind\xEDgena e mesti\xE7a). Nos tempos de escravid\xE3o, os africanos utilizavam-se
+    do berimbau para comunicar-se de modo sigiloso.\nApesar de uma ou outra discord\xE2ncia,
+    \xE9 quase pac\xEDfico o entendimento de que o instrumento tenha origem na \xC1frica
+    e seja de origem bantu, sendo que podemos at\xE9 hoje encontrar em partes do
+    continente, especialmente na regi\xE3o sul, instrumentos bastante similares e
+    tocados de modo similares ao berimbau. Na verdade, o instrumento migrou at\xE9
+    mesmo para a \xCDndia, onde a comunidade siddhi (os siddhis indianos s\xE3o descendentes
+    de escravos africanos, vindos de Mo\xE7ambique, Tanz\xE2nia e Qu\xEAnia) utiliza
+    um instrumento musical id\xEAntico ao berimbau, e que recebe o nome de \"malunga\".\r\nO
+    instrumento \xE9 composto de uma caba\xE7a, um arco geralmente feito da madeira
+    chamada biriba, a qual \xE9 envergada por um cabo de arame, uma baqueta com a
+    qual se percute o arame; ao mesmo tempo em que a m\xE3o da baqueta percute o
+    arame, esta segura o caxixi, um pequeno cesto contendo pequenas sementes ou algo
+    similar dentro, que ajuda no som percussivo; com a outra m\xE3o, o instrumentista
+    segura uma pedra ou um peda\xE7o de metal (popularmente chamado de dobr\xE3o)
+    que \xE9 levado de encontro ao arame, causando varia\xE7\xE3o nos tons emitido
+    pelo arco.\n"
+  fonteExplicacao: Infoescola, 2008
+  respostaCorreta: BERIMBAU
+  imagemDeDica: {fileID: -6762165508358410587, guid: ec3e2e3187fd1eb47b6644b8ae701fcc, type: 3}
+  textoDaPergunta: "Qual \xE9 o nome do instrumento de corda \xFAnica com uma caba\xE7a,
+    essencial para comandar o ritmo na roda de capoeira?"
+  letrasParaEmbaralhar: BERIMBAUHDGSD

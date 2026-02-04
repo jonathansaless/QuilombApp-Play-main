@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta3
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Em que per\xEDodo Acotirene exerceu sua maior influ\xEAncia em
+    Palmares?"
+  respostas:
+  - "Ap\xF3s a morte de Zumbi, na reconstru\xE7\xE3o do quilombo."
+  - Antes de Ganga-Zumba assumir o poder unificado.
+  - Durante o ataque final de Domingos Jorge Velho.
+  - "Apenas durante o breve per\xEDodo do acordo de paz no Vale do Cuca\xFA."
+  indiceRespostaCorreta: 1
+  dica: "Ela \xE9 considerada uma das fundadoras, de uma gera\xE7\xE3o anterior aos
+    l\xEDderes mais famosos."
+  imagemDaPergunta: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta3
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Por que a m\xFAsica \xE9 t\xE3o importante na capoeira e como
+    ela ajudou na sua sobreviv\xEAncia?"
+  respostas:
+  - "Para marcar o tempo de dura\xE7\xE3o de cada 'jogo' de capoeira"
+  - "Para disfar\xE7ar a pr\xE1tica da luta, fazendo-a parecer uma dan\xE7a"
+  - "Porque os africanos preferem m\xFAsica alta a sil\xEAncio"
+  - Para abafar os gritos de dor dos praticantes
+  indiceRespostaCorreta: 1
+  dica: Era uma forma de enganar os vigilantes, fazendo a luta passar por uma atividade
+    de lazer inofensiva.
+  imagemDaPergunta: {fileID: 0}

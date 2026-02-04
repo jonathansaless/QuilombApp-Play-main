@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a1df8e7021ad6d4f8845f95ace433df, type: 3}
+  m_Name: Quiz_Nivel_07
+  m_EditorClassIdentifier: Assembly-CSharp::QuizData
+  idDoNivel: quiz_7
+  tempoLimiteEmSegundos: 210
+  listaDePerguntas:
+  - {fileID: 11400000, guid: 762d9da95fc1e9449914b02d23b77c25, type: 2}
+  - {fileID: 11400000, guid: d83270610db6b9746b885a4f4d8714ab, type: 2}
+  - {fileID: 11400000, guid: 780beb29e7bb5d446a5dc85873b29109, type: 2}
+  - {fileID: 11400000, guid: 5c6ddd6607b2a6f44844dc2e5565ef79, type: 2}
+  - {fileID: 11400000, guid: 0e33b4cf24cc3834b9646236f6e1fbf2, type: 2}
+  - {fileID: 11400000, guid: 274671735ffe14b468fd3b5a29c6f728, type: 2}
+  - {fileID: 11400000, guid: 1f2c953194408f1469d5d747291d331d, type: 2}
+  - {fileID: 11400000, guid: 161ef4821bcac89488864eb69b2df213, type: 2}

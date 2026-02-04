@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5df160d43e31f4cb9c16955ab23d53, type: 3}
+  m_Name: Palavras_Nivel_09
+  m_EditorClassIdentifier: Assembly-CSharp::WordGameData
+  idDoNivel: palavras_9
+  NumeroMaxMovimentos: 25
+  titulo: Atabaque
+  imagemPrincipal: {fileID: -8710669469184904562, guid: 621392c247acb4b4786bceeb4e404010, type: 3}
+  textoDaExplicacao: "Atabaques s\xE3o tambores sagrados, tocados com as m\xE3os
+    ou com baquetas, que acompanham os c\xE2nticos e dan\xE7as nos rituais das religi\xF5es
+    de matriz africana. Cada batida tem fun\xE7\xE3o espiritual: chamar os orix\xE1s,
+    conduzir o ritmo da cerim\xF4nia, invocar energias e auxiliar na incorpora\xE7\xE3o
+    das entidades.\r\nMais que instrumentos musicais, os atabaques s\xE3o considerados
+    portadores de ax\xE9 \u2014 energia vital. Eles n\xE3o apenas tocam, mas \u201Cfalam\u201D,
+    \u201Crezam\u201D e \u201Ccuram\u201D.\r\nA palavra \u201Catabaque\u201D tem
+    origem \xE1rabe (al-\u1E6Dabq), mas os tambores que conhecemos no Brasil vieram
+    da \xC1frica Ocidental, trazidos por povos iorub\xE1s, bantos e jejes. Nas culturas
+    africanas, os tambores j\xE1 tinham fun\xE7\xE3o ritual e eram usados para comunica\xE7\xE3o,
+    celebra\xE7\xE3o, luto, guerra e espiritualidade.\r\nAo chegar ao Brasil, durante
+    o per\xEDodo escravocrata, os tambores foram preservados e adaptados, tornando-se
+    pe\xE7a fundamental nas religi\xF5es afro-brasileiras."
+  fonteExplicacao: Brazil Artes, 2025
+  respostaCorreta: ATABAQUE
+  imagemDeDica: {fileID: -8710669469184904562, guid: 621392c247acb4b4786bceeb4e404010, type: 3}
+  textoDaPergunta: "Qual \xE9 o nome do instrumento musical de percuss\xE3o, tocado
+    com as m\xE3os, que marca o ritmo em rituais e festas?"
+  letrasParaEmbaralhar: ATABAQUEIOGS

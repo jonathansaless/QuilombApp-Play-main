@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta1
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "O que se acredita ter acontecido com Lu\xEDsa Mahin ap\xF3s ela
+    ser descoberta e perseguida?"
+  respostas:
+  - "Ela se escondeu no Maranh\xE3o e ajudou na Balaiada."
+  - Ela fugiu para o Quilombo dos Palmares.
+  - ' Ela fugiu para o Rio de Janeiro e pode ter sido deportada para Angola.'
+  - "Ela foi executada em pra\xE7a p\xFAblica em Salvador."
+  indiceRespostaCorreta: 2
+  dica: "Ela escapou da Bahia, mas pode ter sido capturada em outra grande cidade
+    e enviada de volta \xE0 \xC1frica."
+  imagemDaPergunta: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta3
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "O Dia da Consci\xEAncia Negra \xE9 feriado em todo o territ\xF3rio
+    nacional?"
+  respostas:
+  - "N\xE3o, a lei permite que cada estado ou munic\xEDpio escolha se ser\xE1 feriado
+    ou n\xE3o"
+  - "Sim, mas apenas nos estados da Regi\xE3o Nordeste"
+  - "N\xE3o, \xE9 apenas um 'ponto facultativo' em todo o Brasil"
+  - "Sim, \xE9 um feriado nacional obrigat\xF3rio como o 7 de setembro"
+  indiceRespostaCorreta: 0
+  dica: "A decis\xE3o sobre o feriado n\xE3o \xE9 federal, depende de cada localidade."
+  imagemDaPergunta: {fileID: 0}

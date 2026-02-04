@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta4
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Qual \xE9 a principal caracter\xEDstica t\xE9cnica da confec\xE7\xE3o
+    das bonecas Abayomi tradicionais?"
+  respostas:
+  - "S\xE3o feitas de cer\xE2mica e queimadas em forno"
+  - "S\xE3o esculpidas em madeira e pintadas"
+  - "S\xE3o feitas apenas com n\xF3s e tran\xE7as, sem usar linha ou agulha"
+  - "S\xE3o feitas de palha de milho tran\xE7ada"
+  indiceRespostaCorreta: 2
+  dica: "Elas eram criadas em condi\xE7\xF5es prec\xE1rias, como nos navios, e por
+    isso n\xE3o dependiam de ferramentas de costura."
+  imagemDaPergunta: {fileID: 0}

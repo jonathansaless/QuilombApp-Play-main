@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta2
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "O que Quintino de Lacerda fez quando outros vereadores renunciaram
+    para n\xE3o lhe dar posse?"
+  respostas:
+  - "Ele recorreu \xE0 Justi\xE7a, venceu e presidiu interinamente a C\xE2mara."
+  - "Ele organizou uma rebeli\xE3o armada contra a C\xE2mara."
+  - ' Ele fez um acordo para que seu vice assumisse.'
+  - Ele desistiu do cargo e voltou para o quilombo.
+  indiceRespostaCorreta: 0
+  dica: "Ele usou a lei a seu favor e acabou assumindo uma posi\xE7\xE3o de lideran\xE7a
+    na C\xE2mara."
+  imagemDaPergunta: {fileID: 0}

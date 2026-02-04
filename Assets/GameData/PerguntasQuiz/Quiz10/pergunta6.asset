@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta6
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "A persegui\xE7\xE3o e a intoler\xE2ncia contra as religi\xF5es
+    de matriz africana est\xE3o historicamente ligadas a qual fen\xF4meno social?\t"
+  respostas:
+  - "\xC0 competi\xE7\xE3o econ\xF4mica com religi\xF5es orientais"
+  - Ao conflito entre capitalismo e socialismo
+  - Ao racismo estrutural
+  - Ao movimento ambientalista
+  indiceRespostaCorreta: 2
+  dica: "A discrimina\xE7\xE3o contra a religi\xE3o \xE9 uma extens\xE3o da discrimina\xE7\xE3o
+    contra a origem e a cor da pele de seus praticantes."
+  imagemDaPergunta: {fileID: 0}

@@ -1,0 +1,63 @@
+# =============== #
+# Unity Generated #
+# =============== #
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Uu]rp[Aa]ssets/
+
+# =================================================================== #
+# Arquivos de Build (APKs, Bundles, etc.) - Não devem ir para o repo  #
+# =================================================================== #
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ================================================== #
+# Pastas de cache e debug que você mesmo mencionou   #
+# ================================================== #
+/[Qq]uilombApp Play_BurstDebugInformation_DoNotShip/
+/[Qq]uilombapp_BackUpThisFolder_ButDontShipItWithYourGame/
+.utmp/
+
+# ================================================== #
+# Logs de erro do sistema e do Java (JVM)            #
+# ================================================== #
+hs_err_pid*
+replay_pid*
+
+# ===================================================== #
+# Arquivos gerados por Editores de Código (VS, VS Code) #
+# ===================================================== #
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ================================================================== #
+# Arquivos de sistema operacional (Mac, Windows, Linux) e outros   #
+# ================================================================== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

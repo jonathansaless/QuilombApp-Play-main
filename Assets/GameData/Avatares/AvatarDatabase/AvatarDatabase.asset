@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7dd6582af279754e8272abe83f24801, type: 3}
+  m_Name: AvatarDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::AvatarDatabase
+  todosOsAvatares:
+  - {fileID: 11400000, guid: 4671736a55b186749a4f6d32197dd128, type: 2}
+  - {fileID: 11400000, guid: 5022b143133b93d448b8ef0e7efaee60, type: 2}
+  - {fileID: 11400000, guid: 678baf96a5c7363489772e519a6d8131, type: 2}
+  - {fileID: 11400000, guid: 76f41d93ea5076240acd84c17e8c12a4, type: 2}
+  - {fileID: 11400000, guid: b91ec3a91bd8cf641adcde36c04cfa79, type: 2}
+  - {fileID: 11400000, guid: b65257873b5182547aa85425835e1e24, type: 2}
+  - {fileID: 11400000, guid: 4a2e27b796f71f347b7b81537fe1b2c3, type: 2}
+  - {fileID: 11400000, guid: 4c02e34ce54adab4890f33bdb6190c39, type: 2}
+  - {fileID: 11400000, guid: c643d8e737f79a24e846d47c6347143f, type: 2}
+  - {fileID: 11400000, guid: 914c57a98d432c943ac9613bf8b407bb, type: 2}
+  - {fileID: 11400000, guid: 62e5bb5d4685e3f478076b059db2cf74, type: 2}
+  - {fileID: 11400000, guid: 462e4300542af96458378bc5ce6e7e81, type: 2}
+  - {fileID: 11400000, guid: 818ce443a7885be4481943f8dcfbcc74, type: 2}
+  - {fileID: 11400000, guid: 5d8773e520ccd3543b0110f52457af6a, type: 2}
+  - {fileID: 11400000, guid: 47ad83977c3bb3d4f83756af593edd5b, type: 2}
+  - {fileID: 11400000, guid: 74974c049e40e754785588dd3afaabbf, type: 2}
+  - {fileID: 11400000, guid: 35b3271a6323ab5458a46ec9583114fb, type: 2}
+  - {fileID: 11400000, guid: 83379ae9ba769894491a55cf51d87f2d, type: 2}
+  - {fileID: 11400000, guid: acad07b5befd8de499dfc79848e29132, type: 2}
+  - {fileID: 11400000, guid: 57ee7bf7adeedfa44af4fc0169ef941a, type: 2}
+  - {fileID: 11400000, guid: de037cba8ad945c4d86ccd17c43204ee, type: 2}

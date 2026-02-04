@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866612280093",
+    "project_id": "quilombappplay-febbe",
+    "storage_bucket": "quilombappplay-febbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866612280093:android:7e3fe1b2497f784f08bff4",
+        "android_client_info": {
+          "package_name": "com.quilombapp.quilombappplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkIUjlSC8VWDuFu2qcGrRD4ag1iBC5mx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

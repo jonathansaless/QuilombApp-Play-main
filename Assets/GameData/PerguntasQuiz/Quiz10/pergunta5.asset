@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0545ba0872afbcb43893ccaadd66ab79, type: 3}
+  m_Name: pergunta5
+  m_EditorClassIdentifier: Assembly-CSharp::Pergunta
+  textoDaPergunta: "Durante o per\xEDodo colonial e mesmo ap\xF3s a proclama\xE7\xE3o
+    da Rep\xFAblica, como as religi\xF5es de matriz africana eram vistas pela sociedade
+    e pelo Estado?"
+  respostas:
+  - "Eram a religi\xE3o oficial do Imp\xE9rio, apoiadas por D. Pedro II"
+  - "Eram proibidas e associadas \xE0 feiti\xE7aria, ao mal e \xE0 criminalidade"
+  - Eram aceitas, desde que praticadas apenas dentro dos quilombos
+  - "Eram vistas como folclore e incentivadas como atra\xE7\xE3o tur\xEDstica"
+  indiceRespostaCorreta: 1
+  dica: "Havia uma forte repress\xE3o e demoniza\xE7\xE3o dessas pr\xE1ticas, que
+    n\xE3o eram consideradas 'religi\xE3o'."
+  imagemDaPergunta: {fileID: 0}
